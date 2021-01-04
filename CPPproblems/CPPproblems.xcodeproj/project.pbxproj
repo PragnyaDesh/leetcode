@@ -10,6 +10,7 @@
 		681F8AB625A3517C0001B874 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 681F8AB525A3517C0001B874 /* main.cpp */; };
 		681F8ABF25A351950001B874 /* TwoSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 681F8ABD25A351950001B874 /* TwoSum.cpp */; };
 		681F8AC325A353060001B874 /* AddTwoNumbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 681F8AC125A353060001B874 /* AddTwoNumbers.cpp */; };
+		681F8AC725A356290001B874 /* ReverseInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 681F8AC525A356290001B874 /* ReverseInteger.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,8 @@
 		681F8ABE25A351950001B874 /* TwoSum.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = TwoSum.hpp; sourceTree = "<group>"; };
 		681F8AC125A353060001B874 /* AddTwoNumbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = AddTwoNumbers.cpp; sourceTree = "<group>"; };
 		681F8AC225A353060001B874 /* AddTwoNumbers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AddTwoNumbers.hpp; sourceTree = "<group>"; };
+		681F8AC525A356290001B874 /* ReverseInteger.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ReverseInteger.cpp; sourceTree = "<group>"; };
+		681F8AC625A356290001B874 /* ReverseInteger.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ReverseInteger.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +71,8 @@
 				681F8ABE25A351950001B874 /* TwoSum.hpp */,
 				681F8AC125A353060001B874 /* AddTwoNumbers.cpp */,
 				681F8AC225A353060001B874 /* AddTwoNumbers.hpp */,
+				681F8AC525A356290001B874 /* ReverseInteger.cpp */,
+				681F8AC625A356290001B874 /* ReverseInteger.hpp */,
 			);
 			path = CPPproblems;
 			sourceTree = "<group>";
@@ -129,6 +134,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				681F8AC325A353060001B874 /* AddTwoNumbers.cpp in Sources */,
+				681F8AC725A356290001B874 /* ReverseInteger.cpp in Sources */,
 				681F8ABF25A351950001B874 /* TwoSum.cpp in Sources */,
 				681F8AB625A3517C0001B874 /* main.cpp in Sources */,
 			);
