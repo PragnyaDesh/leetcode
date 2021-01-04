@@ -11,6 +11,7 @@
 		681F8ABF25A351950001B874 /* TwoSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 681F8ABD25A351950001B874 /* TwoSum.cpp */; };
 		681F8AC325A353060001B874 /* AddTwoNumbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 681F8AC125A353060001B874 /* AddTwoNumbers.cpp */; };
 		681F8AC725A356290001B874 /* ReverseInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 681F8AC525A356290001B874 /* ReverseInteger.cpp */; };
+		681F8ACB25A359F60001B874 /* PalindromeNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 681F8AC925A359F60001B874 /* PalindromeNumber.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +35,8 @@
 		681F8AC225A353060001B874 /* AddTwoNumbers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AddTwoNumbers.hpp; sourceTree = "<group>"; };
 		681F8AC525A356290001B874 /* ReverseInteger.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ReverseInteger.cpp; sourceTree = "<group>"; };
 		681F8AC625A356290001B874 /* ReverseInteger.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ReverseInteger.hpp; sourceTree = "<group>"; };
+		681F8AC925A359F60001B874 /* PalindromeNumber.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PalindromeNumber.cpp; sourceTree = "<group>"; };
+		681F8ACA25A359F60001B874 /* PalindromeNumber.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = PalindromeNumber.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +76,8 @@
 				681F8AC225A353060001B874 /* AddTwoNumbers.hpp */,
 				681F8AC525A356290001B874 /* ReverseInteger.cpp */,
 				681F8AC625A356290001B874 /* ReverseInteger.hpp */,
+				681F8AC925A359F60001B874 /* PalindromeNumber.cpp */,
+				681F8ACA25A359F60001B874 /* PalindromeNumber.hpp */,
 			);
 			path = CPPproblems;
 			sourceTree = "<group>";
@@ -137,6 +142,7 @@
 				681F8AC725A356290001B874 /* ReverseInteger.cpp in Sources */,
 				681F8ABF25A351950001B874 /* TwoSum.cpp in Sources */,
 				681F8AB625A3517C0001B874 /* main.cpp in Sources */,
+				681F8ACB25A359F60001B874 /* PalindromeNumber.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
