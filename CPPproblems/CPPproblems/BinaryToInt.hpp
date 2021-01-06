@@ -21,5 +21,5 @@ using namespace std;
       ListNode(int x, ListNode *next) : val(x), next(next) {}
   };
 
-getDecimalValue(ListNode* head)
+ int getDecimalValue(ListNode* head);
 #endif /* BinaryToInt_hpp */
