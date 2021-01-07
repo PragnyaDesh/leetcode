@@ -15,6 +15,7 @@
 		681F8ACF25A35A840001B874 /* IntegerToRoman.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 681F8ACD25A35A840001B874 /* IntegerToRoman.cpp */; };
 		681F8AD325A35BBB0001B874 /* BinaryToInt.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 681F8AD125A35BBB0001B874 /* BinaryToInt.cpp */; };
 		686B244725A56E78004A1A4F /* RomanToInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 686B244525A56E78004A1A4F /* RomanToInteger.cpp */; };
+		686B244B25A775C2004A1A4F /* SearchInsertPosition.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 686B244925A775C2004A1A4F /* SearchInsertPosition.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -46,6 +47,8 @@
 		681F8AD225A35BBB0001B874 /* BinaryToInt.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = BinaryToInt.hpp; sourceTree = "<group>"; };
 		686B244525A56E78004A1A4F /* RomanToInteger.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = RomanToInteger.cpp; sourceTree = "<group>"; };
 		686B244625A56E78004A1A4F /* RomanToInteger.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = RomanToInteger.hpp; sourceTree = "<group>"; };
+		686B244925A775C2004A1A4F /* SearchInsertPosition.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SearchInsertPosition.cpp; sourceTree = "<group>"; };
+		686B244A25A775C2004A1A4F /* SearchInsertPosition.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SearchInsertPosition.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +96,8 @@
 				681F8AD225A35BBB0001B874 /* BinaryToInt.hpp */,
 				686B244525A56E78004A1A4F /* RomanToInteger.cpp */,
 				686B244625A56E78004A1A4F /* RomanToInteger.hpp */,
+				686B244925A775C2004A1A4F /* SearchInsertPosition.cpp */,
+				686B244A25A775C2004A1A4F /* SearchInsertPosition.hpp */,
 			);
 			path = CPPproblems;
 			sourceTree = "<group>";
@@ -154,6 +159,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				681F8AC325A353060001B874 /* AddTwoNumbers.cpp in Sources */,
+				686B244B25A775C2004A1A4F /* SearchInsertPosition.cpp in Sources */,
 				686B244725A56E78004A1A4F /* RomanToInteger.cpp in Sources */,
 				681F8AC725A356290001B874 /* ReverseInteger.cpp in Sources */,
 				681F8AD325A35BBB0001B874 /* BinaryToInt.cpp in Sources */,
