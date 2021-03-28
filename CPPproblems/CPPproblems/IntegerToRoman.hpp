@@ -10,7 +10,6 @@
 
 #include <stdio.h>
 #include <string>
-
 using namespace std;
 
 string intToRoman(int num);
