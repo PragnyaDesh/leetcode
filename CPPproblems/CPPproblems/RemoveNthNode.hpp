@@ -18,6 +18,6 @@ struct ListNode {
     ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 
-ListNode* removeNthFromEnd(ListNode* head, int n)
+ListNode* removeNthFromEnd(ListNode* head, int n);
 
 #endif /* RemoveNthNode_hpp */
