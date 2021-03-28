@@ -9,7 +9,6 @@
 #define BinaryToInt_hpp
 
 #include <stdio.h>
-
 using namespace std;
 
 //Definition for singly-linked list.
