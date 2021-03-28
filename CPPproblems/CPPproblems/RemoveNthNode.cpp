@@ -8,14 +8,7 @@
 #include "RemoveNthNode.hpp"
 
 
-//Definition for singly-linked list.
-  struct ListNode {
-      int val;
-      ListNode *next;
-      ListNode() : val(0), next(nullptr) {}
-      ListNode(int x) : val(x), next(nullptr) {}
-      ListNode(int x, ListNode *next) : val(x), next(next) {}
-  };
+// Definition for singly-linked list.
 
 class Solution {
 public:
@@ -34,7 +27,7 @@ public:
             return head;
         }
         
-        ListNode *prev;
+        ListNode *prev = nullptr;
         for(int i=1; i<(length-n+1); i++){
             prev = curr;
             curr = curr->next;
