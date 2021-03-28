@@ -9,6 +9,7 @@
 #define IntegerToRoman_hpp
 
 #include <stdio.h>
+#include <string>
 
 using namespace std;
 

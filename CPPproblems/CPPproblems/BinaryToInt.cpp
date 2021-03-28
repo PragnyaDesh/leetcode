@@ -6,6 +6,8 @@
 //
 
 #include "BinaryToInt.hpp"
+#include <math.h>
+
 class Solution {
 public:
     int getDecimalValue(ListNode* head) {
